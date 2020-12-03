@@ -17,7 +17,7 @@ This package displays success, warning and info messages and errors on console w
 
 ## Dependencies
 ```shell
- rich==9.3.0
+ rich>=9.0.0
 ```
 
 ## Installation
