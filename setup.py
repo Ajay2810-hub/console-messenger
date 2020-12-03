@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name = 'console-messenger',
-    version = '0.0.1',
+    version = '0.0.2',
     author="Ajay Lingayat",
     author_email="lingayatajay2810@gmail.com",
     description = "This module helps to print messages in different colours on terminal & various python IDEs using rich module.",
