@@ -1,5 +1,12 @@
 # console-messenger
 
+[![Downloads](https://static.pepy.tech/personalized-badge/console-messenger?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads)](https://pepy.tech/project/console-messenger)
+[![Downloads/Week](https://static.pepy.tech/personalized-badge/console-messenger?period=week&units=international_system&left_color=grey&right_color=blue&left_text=Downloads/Week)](https://pepy.tech/project/console-messenger)
+[![Downloads/Month](https://static.pepy.tech/personalized-badge/console-messenger?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads/Month)](https://pepy.tech/project/console-messenger)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Latest PyPI version](https://img.shields.io/pypi/v/console-messenger.svg)](https://pypi.org/project/console-messenger)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/console-messenger.svg)](https://pypi.org/project/console-messenger)
+
 ## About
 This package displays success, warning and info messages and errors on console with different colours using [rich](https://pypi.org/project/rich/) module. It also prints any error type without passing it as a parameter.
 
