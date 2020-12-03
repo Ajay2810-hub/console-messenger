@@ -6,6 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Latest PyPI version](https://img.shields.io/pypi/v/console-messenger.svg)](https://pypi.org/project/console-messenger)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/console-messenger.svg)](https://pypi.org/project/console-messenger)
+[![Documentation Status](https://readthedocs.org/projects/console-messenger/badge/?version=main)](https://console-messenger.readthedocs.io/en/main/?badge=main)
 
 ## About
 This package displays success, warning and info messages and errors on console with different colours using [rich](https://pypi.org/project/rich/) module. It also prints any error type without passing it as a parameter.
